@@ -54,13 +54,13 @@ Every recovered string is automatically resolved to its corresponding Virtual Ad
 Obfus.h HIDE_STRING Dumper is a command-line utility.
 
 ```bash
-ObfusStringDumper.exe <target_pe.exe>
+ObfusHide_StringDumper.exe <target_pe.exe>
 ```
 
 Example:
 
 ```bash
-ObfusStringDumper.exe malware_sample.exe
+ObfusHide_StringDumper.exe malware_sample.exe
 ```
 
 ---
